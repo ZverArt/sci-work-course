@@ -10,3 +10,6 @@
 * `git commit`
 * `git push`
 * Send a pull request
+
+pew pew
+What a Ditch? T_T
